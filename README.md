@@ -1,6 +1,6 @@
 # CDR API
 
-Week 3 internship assignment (London Success Academy, in partnership with PineVox): the secure backend for the telecom call analytics platform. It stores 10,000 call data records (CDRs) in PostgreSQL and serves them through a REST API with JWT authentication and role-based access control.
+Week 3 internship assignment: secure backend for the telecom call analytics platform. Stores 10,000 call data records (CDRs) in PostgreSQL and serves them through a REST API with JWT authentication and role-based access control.
 
 API: https://cdr-api-u9dq.onrender.com
 
